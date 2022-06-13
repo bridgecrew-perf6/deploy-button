@@ -16,6 +16,7 @@ export default function Home() {
         <a
           href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world"
           target="_blank"
+          rel="noreferrer"
         >
           <img src="https://vercel.com/button" alt="Deploy with Vercel" />
         </a>
@@ -23,6 +24,7 @@ export default function Home() {
         <a
           href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel-support%2Fyarn-ws-monorepo&root-directory=apps%2Ffrontend"
           target="_blank"
+          rel="noreferrer"
         >
           <img src="https://vercel.com/button" alt="Deploy with Vercel" />
         </a>
@@ -30,6 +32,7 @@ export default function Home() {
         <a
           href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world&build-command=npm%20run%20build"
           target="_blank"
+          rel="noreferrer"
         >
           <img src="https://vercel.com/button" alt="Deploy with Vercel" />
         </a>
